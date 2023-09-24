@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PauloBumba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Técnico Médio de Energia e Instalações Eletricas pelo IMPS(instituto médio politecnico do sambizanga) e Técnico  Instalações Elétricas Industrias pelo Senai
+Cursando no curso de Ciencia da Computação na UNOESC/VIDEIRA
+Apreciador de IA
+Apoixonado por DEV e Data Science
 
-<!---
-PauloBumba/PauloBumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
